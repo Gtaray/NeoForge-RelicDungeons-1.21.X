@@ -1,0 +1,12 @@
+{
+  "type": "relic_dungeons:sea_of_stars",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "relic_dungeons:sea_of_stars",
+      "features": false,
+      "lakes": false,
+      "layers": []
+    }
+  }
+}

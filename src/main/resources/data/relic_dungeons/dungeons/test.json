@@ -1,0 +1,19 @@
+{
+  "starting_rooms": [
+    {
+      "size": { "w": 1, "h": 1 },
+      "difficulty": [ "EASY" ],
+      "cells": [
+        {
+          "coordinates": { "y": 0, "x": 0 },
+          "variants": [
+            {
+              "structure": "",
+              "exits": [ "N" ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
